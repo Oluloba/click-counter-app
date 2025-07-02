@@ -38,9 +38,9 @@ https://github.com/oluloba/click-counter-app
 
 ---
 
-### Get started 
+## Get started 
 
-## Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/oluloba/click-counter-app.git
