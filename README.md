@@ -31,14 +31,14 @@ https://github.com/oluloba/click-counter-app
 
 **Functional Components** with `useState`
 
-◼Styled layout using CSS
-◼Input validation (no negative values)
-◼Message display on reaching thresholds
-◼Basic test coverage (unit tests for increment/decrement)
+◼Styled layout using CSS  
+◼Input validation (no negative values)  
+◼Message display on reaching thresholds  
+◼Basic test coverage (unit tests for increment/decrement)  
 
 ---
 
-## Get started 
+### Get started 
 
 ## Clone the repository
 
