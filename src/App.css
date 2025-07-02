@@ -39,6 +39,14 @@ h1 {
   transition: background-color 0.3s;
 }
 
-.btn:hover {
+.but:hover {
   background-color: #0056b3;
+}
+
+.message {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  color: rgb(197, 12, 12);
+  font-weight: 500;
 }
